@@ -1,0 +1,68 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{118, 441}, {160, 52}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_tapped",
+          "frame" : "{{200, 144}, {80, 32}}",
+          "title" : "SERACH",
+          "uuid" : "E9F29BD3-A5DF-4143-BC50-32DB97B35479",
+          "class" : "Button",
+          "font_bold" : true,
+          "name" : "button",
+          "font_size" : 15
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{85, 356}, {219, 77}}",
+        "class" : "TextField",
+        "attributes" : {
+          "font_size" : 17,
+          "action" : "copy",
+          "frame" : "{{140, 144}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "B8CD6DC0-0324-4B52-B520-5F675E70EF03",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "textfield1",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{70, 92}, {267, 256}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "frame" : "{{190, 110}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "imageview1",
+          "uuid" : "ACD142AD-7557-4884-AAC0-9FA541EA74A6"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {480, 320}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 141.3543,
+        "lat": 43.0619
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 288.18,
+        "feels_like": 287.88,
+        "temp_min": 286.98,
+        "temp_max": 289.2,
+        "pressure": 1022,
+        "humidity": 82
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.03,
+        "deg": 90
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1633390347,
+    "sys": {
+        "type": 1,
+        "id": 7980,
+        "country": "JP",
+        "sunrise": 1633379752,
+        "sunset": 1633421405
+    },
+    "timezone": 32400,
+    "id": 2130037,
+    "name": "Hokkaido",
+    "cod": 200
+}
