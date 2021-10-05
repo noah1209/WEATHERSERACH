@@ -42,6 +42,7 @@ def copy(sender):
  # 緯度と経度を地点から取得
     c = str(ret.latlng[0])
     b = str(ret.latlng[1])
+    #ここにOpenWeatherで取得したAPI_KEYを入力します。
     API_KEY = "YOUR＿API＿KEY"
     BASE_URL = "http://api.openweathermap.org/data/2.5/forecast"
 
