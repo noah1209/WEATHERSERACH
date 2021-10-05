@@ -42,7 +42,7 @@ def copy(sender):
  # 緯度と経度を地点から取得
     c = str(ret.latlng[0])
     b = str(ret.latlng[1])
-    API_KEY = "4fa2fe87026af58a0ae452080a60b3d6"
+    API_KEY = "YOUR＿API＿KEY"
     BASE_URL = "http://api.openweathermap.org/data/2.5/forecast"
 
 # それをURLに代入
